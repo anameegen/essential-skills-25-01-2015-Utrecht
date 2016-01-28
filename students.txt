@@ -1,24 +1,17 @@
-Dennis Schmitz; Dennis.Schmitz@rivm.nl; RIVM
-Stef van der Meulen; stefvandermeulen@gmail.com; FOM Institute AMOLF
-Tim Kunne; Wageningen UR; Tim.kunne@wur.nl
-Cunliang Geng; Urecht University; c.geng@uu.nl
-Hamed Mehdipoor; h.mehdipoor@utwente.nl
-Doti Martono University of Groningen | d.p.martono@rug.nl
+Dennis Schmitz  Dennis.Schmitz@rivm.nl  RIVM
+Stef van der Meulen stefvandermeulen@gmail.com FOM Institute AMOLF
+Tim Kunne   Wageningen UR   Tim.kunne@wur.nl
+CunliangGeng Urecht University c.geng@uu.nl
+Hamed Mehdipoor h.mehdipoor@utwente.nl
+Doti Martono | University of Groningen | d.p.martono@rug.nl
 Tuong-Van Vu, t.v.vu@vu.nl, VU University Amsterdam
 Sam Nooij   RIVM    sam.nooij@rivm.nl
 Lindsey Burggraaff l.burggraaff@lacdr.leidenuniv.nl
 Marnix Vlot; Wageningen UR; marnix.vlot@wur.nl; Microbiology; host-virus interactions
 Alejandro Davila        University of Groningen           a.davila-martrinez@rug.nl
 Ivan Corbeski, i.corbeski@uu.nl, Utrecht University
-Ana van Meegen anavanmeegen@gmail.com
+Ana van Meegen anavanmeegen@gmail.com or a.e.van.meegensilva@vu.nl Vrije Universiteit Amsterdam
 Name: Yen Hao Tran. PhD student in the university of Groningen. Email: tranyenhao@gmail.com
 Maurice Vanderfeesten, maurice.vanderfeesten@vu.nl, Vrije Universiteit Amsterdam
 Joyce Nijkamp, j.a.nijkamp@uva.nl, Universiteit van Amsterdam
 Sytske Wiegersma, s.wiegersma@utwente.nl, University of Twente
-18
-19
-20
-21
-22
-23
-24
